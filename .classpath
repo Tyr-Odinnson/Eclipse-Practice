@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CS105/src"/>
+	<classpathentry kind="src" path="CS106repo/src"/>
+	<classpathentry kind="src" path="Exercises/src"/>
+	<classpathentry kind="src" path="Game/src"/>
+	<classpathentry kind="src" path="NGG/src"/>
+	<classpathentry kind="output" path="NGG/bin"/>
+</classpath>
